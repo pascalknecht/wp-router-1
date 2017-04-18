@@ -10,6 +10,6 @@
     "guzzlehttp/guzzle": "^6.1"
   },
   "autoload": {
-    "files": ["plugin.php"]
+    "files": ["./plugin.php"]
   }
 }

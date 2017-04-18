@@ -22,3 +22,5 @@ require_once __DIR__ . '/src/responses/class-wp-redirect-response.php';
 global $wp_router;
 
 $wp_router = new WP_Router;
+var_dump(1);
+exit;
